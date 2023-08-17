@@ -34,7 +34,7 @@
   left: -50px;
 }
 
-.nav__link {
+.nav__links {
   display: flex;
   list-style-type: none;
   padding: 0;
@@ -42,7 +42,7 @@
   gap: 20px;
 }
 
-.nav__link_item {
+.nav__link {
   color: #000;
   font-family: "Inter";
   font-style: normal;
@@ -153,6 +153,7 @@
   display: flex;
   gap: 40px;
   justify-content: center;
+  border: none 0;
 }
 
 .recipes__video-caption {
