@@ -179,6 +179,9 @@
   justify-content: space-between;
   margin: 24px 0 0 0;
 }
+.recipes__iframe {
+  border: none;
+}
 
 .reservation {
   background-color: #d9e7ff;
