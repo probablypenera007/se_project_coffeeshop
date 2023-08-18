@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+This layout is very versatile and can be used for a website for up-and-coming restaurants, with proper tweaking of designs that can match the restaurants theme it will be chef's kiss.
