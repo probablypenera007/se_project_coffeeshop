@@ -1,9 +1,6 @@
 .form {
   max-width: 385px;
 }
-.reservation__form {
-  margin: 0 auto;
-}
 
 .form__fieldset {
   display: flex;

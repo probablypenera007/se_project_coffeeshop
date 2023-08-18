@@ -40,39 +40,3 @@
   padding: 0;
   list-style-type: none;
 }
-
-.card {
-  width: 540px;
-}
-
-.card__list {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  gap: 16px;
-  display: flex;
-  flex-direction: column;
-}
-
-.card__title {
-  margin: 0 0 32px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
-.card__list-item {
-  display: flex;
-}
-
-.card__list-divider {
-  border-bottom: 1px solid black;
-  flex-grow: 1;
-}
